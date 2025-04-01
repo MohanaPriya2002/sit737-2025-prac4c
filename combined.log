@@ -1,0 +1,7 @@
+{"level":"info","message":"Operation:mod, '+n1+' and '+n2+' are recieved.","service":"calculator-service"}
+{"level":"info","message":"Operation:sqrt, '+n1+' and '+n2+' are recieved.","service":"calculator-service"}
+{"level":"info","message":"Operation:sqrt, '+n1+' and '+n2+' are recieved.","service":"calculator-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
+{"level":"info","message":"Operation:sqrt, '+n1+' and '+n2+' are recieved.","service":"calculator-service"}
+{"level":"info","message":"Operation:sqrt, '+n1+' and '+n2+' are recieved.","service":"calculator-service"}
+{"level":"info","message":"Operation:sqrt, '+n1+' and '+n2+' are recieved.","service":"calculator-service"}
