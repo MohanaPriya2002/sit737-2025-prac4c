@@ -5,3 +5,5 @@
 {"level":"info","message":"Operation:sqrt, '+n1+' and '+n2+' are recieved.","service":"calculator-service"}
 {"level":"info","message":"Operation:sqrt, '+n1+' and '+n2+' are recieved.","service":"calculator-service"}
 {"level":"info","message":"Operation:sqrt, '+n1+' and '+n2+' are recieved.","service":"calculator-service"}
+{"level":"info","message":"Operation:sqrt, '+n1+' and '+n2+' are recieved.","service":"calculator-service"}
+{"level":"info","message":"Operation:exp, '+n1+' and '+n2+' are recieved.","service":"calculator-service"}
